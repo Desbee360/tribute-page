@@ -1,53 +1,60 @@
 /* styling the body element */
 body {
-    margin: 20%;
-    background-color: #00fa9a
+  margin: 20%;
+  background-color: #00fa9a;
 }
- 
+
 /* styling the title like align and shadow  */
 #title {
-    text-align: center;
-    text-shadow: 5px 5px 5px white;
-    font-size: 7vh;       
-}  
+  text-align: center;
+  text-shadow: 5px 5px 5px white;
+  font-size: 7vh;
+}
 
 /* styling the content like box shadow */
 #small-content {
-    font-weight: 700;
+  font-weight: 700;
 }
 
-#main-content{
-    background-color: rgb(46, 139, 87,0.25);
-    padding: 15px;
-    margin: 15px;
-    box-shadow: 3px 4px 3px #00fa75;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+#main-content {
+  background-color: rgb(46, 139, 87, 0.25);
+  padding: 15px;
+  margin: 15px;
+  box-shadow: 3px 4px 3px #00fa75;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h2{
-    text-align: center;
-    text-shadow: 5px 5px 10px black;
-    color: white;
-    font-weight: bold;
+h2 {
+  text-align: center;
+  text-shadow: 5px 5px 10px black;
+  color: white;
+  font-weight: bold;
 }
-.modify{
-    font-weight: bold;
+
+.modify {
+  font-weight: bold;
 }
-.figure{
-    font-weight: bold;
+
+.figure {
+  font-weight: bold;
 }
-.date{
-    font-weight: bold;
+
+.date {
+  font-weight: bold;
 }
-.year{
-    font-weight: bold;
+
+.year {
+  font-weight: bold;
 }
-.died{
-    font-weight: bold;
+
+.died {
+  font-weight: bold;
 }
-.renamed{
-    font-weight: bold;
+
+.renamed {
+  font-weight: bold;
 }
-.name{
-    font-weight: bold;
+
+.name {
+  font-weight: bold;
 }
